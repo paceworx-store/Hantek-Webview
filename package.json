@@ -1,0 +1,12 @@
+{
+  "name": "hantek-scope",
+  "version": "1.0.0",
+  "description": "PicoScope-style oscilloscope app for the Hantek DSO-6022BE/BL, using WebUSB",
+  "type": "module",
+  "private": true,
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
